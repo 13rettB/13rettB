@@ -1,1 +1,1 @@
-- 📚 I’m currently learning Javascript and Python
+- 📚 I’m currently learning Javascript
